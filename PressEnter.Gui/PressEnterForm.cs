@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using PressEnter.Flow;
+using System.IO;
 
 namespace PressEnter.Gui
 {
@@ -45,8 +46,23 @@ namespace PressEnter.Gui
         {
             string newState = sender as string;
             _curStatus.Text = newState;
+            try
+            {
+                ImageState ims = _flow.Descriptor as ImageState;
+                _pics.ImageLocation = _base + ims.ImageName + ".png";
+            }
+            catch {
+                AnimationState ans = _flow.Descriptor as AnimationState;
+                List<string> paths = new List<string>();
+                foreach (var file in Directory.GetFiles(_base + ans.Name))
+                {
+                    paths.Add(file);
+                }
+
+                _pics.ImageLocation = _base + ans.Name + ".png";
+            }
         }
-        private string _base = "/data/";
+        private string _base = "data/";
 
 
 

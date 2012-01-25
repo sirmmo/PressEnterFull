@@ -81,6 +81,11 @@ namespace PressEnter.Flow
                         StateChanged(_currentState, new EventArgs());
                 }
         }
+
+        public PressState Descriptor {
+            get { return _stateDescr[_currentState]; }
+        }
+
         public event EventHandler StateChanged;
     }
 }
