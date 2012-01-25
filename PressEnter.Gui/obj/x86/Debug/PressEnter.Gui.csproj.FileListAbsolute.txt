@@ -1,0 +1,11 @@
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\bin\Debug\PressEnter.Gui.exe
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\bin\Debug\PressEnter.Gui.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\bin\Debug\PressEnter.Flow.dll
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\bin\Debug\PressEnter.Flow.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\obj\x86\Debug\PressEnter.Gui.PressEnterForm.resources
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\obj\x86\Debug\PressEnter.Gui.Properties.Resources.resources
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\obj\x86\Debug\PressEnter.Gui.exe
+c:\users\n61j\documents\visual studio 2010\Projects\PressEnter2\PressEnter.Gui\obj\x86\Debug\PressEnter.Gui.pdb
