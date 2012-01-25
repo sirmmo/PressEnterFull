@@ -16,12 +16,6 @@ namespace PressEnter.Gui
             InitializeComponent();
             InitFlow();
             InitUI();
-            RunFlow();
-        }
-
-        private void RunFlow()
-        {
-            
         }
 
         private void InitUI()

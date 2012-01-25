@@ -38,7 +38,7 @@ namespace PressEnter.Flow
 
         public static PressFlow LoadString(string path) {
             PressFlow flow = new PressFlow();
-
+            return flow;
         }
 
         public static PressFlow DoLoad() {
